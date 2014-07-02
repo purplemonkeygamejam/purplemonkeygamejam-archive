@@ -1,0 +1,59 @@
+{
+    "title": "June 2014",
+    "games": [
+
+        {
+            "name": "Candy Crypt",
+            "description": "",
+            "url": "https://www.dropbox.com/sh/h4adqzed7rrfscr/AABdwvrr5Q3Ab-afBtTT-al5a",
+            "action": "Download (Mac / Windows / Linux)",
+            "images": ["/archive/2014-june/candy-crypt/screenshot.png"]
+        },
+        {
+            "name": "Horsemanity",
+            "description": "",
+            "url": "http://horsemanity.herokuapp.com/",
+            "action": "Play Online",
+            "images": ["/archive/2014-june/horsemanity/screenshot.png"]
+        },
+        {
+            "name": "Just Deserts",
+            "description": "",
+            "url": "http://esjay.github.io/just-deserts/",
+            "action": "Play Online",
+            "images": ["/archive/2014-june/just-deserts/screenshot.png"]
+        },
+        {
+            "name": "Light & Shadow",
+            "description": "A nondescript character is lost in a dark forest filled with other unknown creatures. These creatures can only be seen when the light from the main character hits them or the sky lights up revealing their outline. When the main character collides with any of these creatures they light up random colors and continue on their path.",
+            "url": "http://robotmonsterlovesyou.github.io/purplemonkeygamejam-june-2014/",
+            "action": "Play Online",
+            "images": ["/archive/2014-june/robotmonsterlovesyou-light-and-shadow/promo.jpg"]
+        },
+        {
+            "name": "Scrambled Light",
+            "description": "",
+            "url": "/archive/2014-june/scrambled-light/",
+            "action": "Play Online",
+            "images": [""]
+        },
+        {
+            "name": "Super Dracula Track and Field 1514",
+            "description": "",
+            "url": "/archive/2014-june/super-dracula-track-and-field-1514/",
+            "action": "Play Online",
+            "images": ["/archive/2014-june/super-dracula-track-and-field-1514/screenshot.png"]
+        },
+        {
+            "name": "Vampire Beach",
+            "description": "",
+            "images": [
+                "/archive/2014-june/vampire-beach/vb_title_screen.png",
+                "/archive/2014-june/vampire-beach/vb_early_game.png",
+                "/archive/2014-june/vampire-beach/vb_late_game.png"
+            ]
+        }
+
+    ]
+
+}

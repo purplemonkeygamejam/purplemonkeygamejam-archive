@@ -1,0 +1,23 @@
+<% include _header.html %>
+
+<% games.forEach(function(game) { %>
+
+<h2><%=: game.name %></h2>
+
+<% if (game.images) { %>
+    <% game.images.forEach(function(image) { %>
+    <div><img src="<%=: image %>"></div>
+    <% }) %>
+<% } %>
+
+<% if (game.description) { %>
+    <p><%=: game.description %></p>
+<% } %>
+
+<% if (game.url) { %>
+    <div><a href="<%=: game.url %>" class="button play" target="_blank"><%=: game.action %></a></div>
+<% } %>
+
+<% }) %>
+
+<% include _footer.html %>

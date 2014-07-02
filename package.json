@@ -1,0 +1,10 @@
+{
+    "engines": {
+        "node": "0.10.x"
+    },
+    "main": "web.js",
+    "dependencies": {
+        "express": "4.4.5",
+        "ejs": "1.0.0"
+    }
+}
