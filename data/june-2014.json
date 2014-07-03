@@ -33,9 +33,9 @@
         {
             "name": "Scrambled Light",
             "description": "",
-            "url": "/archive/2014-june/scrambled-light/",
-            "action": "Play Online",
-            "images": [""]
+            "url": "http://www.filedropper.com/scrambledlight_2",
+            "action": "Download (Unity HTML)",
+            "images": ["/archive/2014-june/scrambled-light/screenshot.png"]
         },
         {
             "name": "Super Dracula Track and Field 1514",
